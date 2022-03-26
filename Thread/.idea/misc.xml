@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/YSM/AndroidStudioProjects/Thread/app/src/main/res/layout/activity_main.xml" value="0.373046875" />
+        <entry key="..\:/Users/YSM/AndroidStudioProjects/Thread/app/src/main/res/layout/asynctask.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/YSM/AndroidStudioProjects/Thread/app/src/main/res/layout/loop.xml" value="0.15942028985507245" />
       </map>
     </option>
   </component>
